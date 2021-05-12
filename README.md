@@ -3,7 +3,7 @@ This is unusual platformer game in Sword Art Online world.
 
   This project was create using SFML & Visual Studio 2015. 
   
-  Also, in file dbConnect.cpp, you need to change the connection data to your ownю
+  Also, in file dbConnect.cpp, you need to change the connection data to your own.
   
   If you want just to test it, in file main.cpp delete line 25.
   
